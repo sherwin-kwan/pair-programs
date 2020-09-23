@@ -57,7 +57,7 @@ printMatrix(transpose([
 // // 3 3 3 3 
 // // 4 4 4 4
 
-// console.log('----')
+console.log('----')
 
 printMatrix(transpose([
   [1, 2],
@@ -65,7 +65,7 @@ printMatrix(transpose([
   [5, 6]
 ]));
 
-// console.log('----')
+console.log('----')
 
 printMatrix(transpose([
   [1, 2, 3, 4, 5, 6, 7]
